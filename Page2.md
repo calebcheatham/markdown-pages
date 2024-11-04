@@ -4,7 +4,7 @@
     + Hitting a good drive is possibly the best feeling on a golf course,<br>The feeling of watching your drive fly straight down the fairway is unmatched
   
       
-![Sim2 Max Driver](images.jpg)
+![**Sim2 Max Driver**](images.jpg)
 
 
 
@@ -12,4 +12,4 @@
     - There are not many things more visually satisfying things then puring a 100 yard wedge shot<br>and watching it land and spin on the green
 
 
-![Volkey SM10 56 degree](volkey.jpg)
+<img src="volkey.jpg" alt="**Volkey SM10 56 degree**" height ="225" />
